@@ -107,4 +107,5 @@ def main():
             save_expenses(expenses)
             break
 main()        
-        
+
+print("Checking git version control")
