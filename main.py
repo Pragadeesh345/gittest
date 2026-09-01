@@ -1,3 +1,4 @@
+# Expense Tracker File code 
 def add_expense(expenses):
     while True:
         while True:
@@ -107,5 +108,3 @@ def main():
             save_expenses(expenses)
             break
 main()        
-
-print("Checking git version control")
