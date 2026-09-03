@@ -108,7 +108,4 @@ def main():
             save_expenses(expenses)
             break
 main()
-print("message from main")        
-print("creating a conflict")        
-print("Testing professional feature workflow")
-print("profile feature comming soon")
+print("new export feature Incomming")
